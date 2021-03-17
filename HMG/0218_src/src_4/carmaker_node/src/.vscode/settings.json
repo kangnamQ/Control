@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/j/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/j/Downloads/MIcar_environment_and_test_ver1/ros/ros1_ws/devel/lib/python2.7/dist-packages",
+        "/home/j/carmaker_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

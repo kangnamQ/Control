@@ -1,0 +1,6 @@
+turtlebot3_autorace/turtlebot3_autorace_core
+/home/j/catkin_ws/devel/.private/turtlebot3_autorace_core/cmake.lock /home/j/catkin_ws/devel/./cmake.lock
+/home/j/catkin_ws/devel/.private/turtlebot3_autorace_core/share/turtlebot3_autorace_core/cmake/turtlebot3_autorace_coreConfig-version.cmake /home/j/catkin_ws/devel/share/turtlebot3_autorace_core/cmake/turtlebot3_autorace_coreConfig-version.cmake
+/home/j/catkin_ws/devel/.private/turtlebot3_autorace_core/share/turtlebot3_autorace_core/cmake/turtlebot3_autorace_coreConfig.cmake /home/j/catkin_ws/devel/share/turtlebot3_autorace_core/cmake/turtlebot3_autorace_coreConfig.cmake
+/home/j/catkin_ws/devel/.private/turtlebot3_autorace_core/lib/pkgconfig/turtlebot3_autorace_core.pc /home/j/catkin_ws/devel/lib/pkgconfig/turtlebot3_autorace_core.pc
+/home/j/catkin_ws/devel/.private/turtlebot3_autorace_core/lib/python2.7/dist-packages/turtlebot3_autorace_core/__init__.py /home/j/catkin_ws/devel/lib/python2.7/dist-packages/turtlebot3_autorace_core/__init__.py

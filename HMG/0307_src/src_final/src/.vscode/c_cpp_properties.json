@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/kang/catkin_ws/devel/include",
+        "/opt/ros/melodic/include",
+        "/home/kang/catkin_ws/src/carmaker_node/include",
+        "/home/kang/catkin_ws/src/carmaker_tracking/include",
+        "/home/kang/catkin_ws/src/lidarp/include",
+        "/home/kang/catkin_ws/src/velodyne_height_map/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
